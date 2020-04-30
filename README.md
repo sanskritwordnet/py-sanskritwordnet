@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/wmshort/sanskritwordnet.svg?branch=master)](https://travis-ci.org/wmshort/sanskritwordnet)
+[![Build Status](https://travis-ci.org/wmshort/sanskritwordnet.svg?branch=master)](https://travis-ci.org/sanskritwordnet/py-sanskritwordnet)
 
 Sanskrit WordNet API
 =====================
