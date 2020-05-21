@@ -257,7 +257,7 @@ class Lemmas:
 
 
 class SanskritWordNet:
-    def __init__(self, host="http://sanskritwordnet.unipv.it", token=None):
+    def __init__(self, host="https://sanskritwordnet.unipv.it", token=None):
         self.host = host.rstrip("/")
         self.token = token if token else SANSKRITWORDNET_TOKEN
 

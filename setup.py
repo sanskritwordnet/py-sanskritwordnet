@@ -10,7 +10,7 @@ requirements = [
 
 setup(
     name="sanskritwordnet",
-    version="0.0.9",
+    version="0.1.0",
     packages=find_packages(),
     url="",
     license="GNU General Public License v3.0",
